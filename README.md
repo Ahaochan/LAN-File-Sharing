@@ -1,6 +1,9 @@
 # LAN File Sharing
 基于Tomcat的简单的局域网文件共享
 
+- [English Wiki](https://github.com/Ahaochan/LANFileSharing/wiki/English-Wiki)
+- [中文Wiki](https://github.com/Ahaochan/LANFileSharing/wiki/%E4%B8%AD%E6%96%87Wiki)
+
 # 介绍
 
 本项目的主要用于手机访问电脑文件, 将需要共享的文件放置在本项目下即可.
