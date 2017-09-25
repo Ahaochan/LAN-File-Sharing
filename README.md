@@ -18,7 +18,7 @@
 3. [MX Player视频播放器](https://www.baidu.com/s?wd=MXPlayer)
 
 # 使用说明
-1. clone本项目到本地
+1. clone本项目到本地Tomcat
 2. [配置Tomcat和Java的环境变量](https://www.baidu.com/s?wd=tomcat%20配置环境)
 3. [关闭防火墙](https://www.baidu.com/s?wd=关闭防火墙)
 4. 将需要共享的文件放入本项目下, 运行Tomcat/bin目录下的startup.bat
